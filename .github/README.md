@@ -32,7 +32,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [MUSIC X WAIFU](https://t.me/for_tying_bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [MUSIC X WAIFU](https://t.me/SweetieGaanaBot)**
 
 
 
@@ -98,11 +98,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/PiratesMainchat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FINE_N_OK"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/PiratesMainchat"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FINE_N_OK"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ pirate](https://github.com/Gokukhan1) ғᴏʀ [MUSIC X WAIFU BOT](https://t.me/One_for_all_rebot)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ sᴡᴇᴇᴛᴜᴇ](https://github.com/Gokukhan1) ғᴏʀ [MUSIC X WAIFU BOT](https://t.me/One_for_all_rebot)_</b>
